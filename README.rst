@@ -21,6 +21,12 @@ License
 
 This project is licensed under the MIT License.
 
+Links
+-----
+
+* `Download <https://pypi.org/project/calcdict/#files>`_
+* `Source <https://github.com/johannes-programming/calcdict>`_
+
 Credits
 -------
 - Author: Johannes
